@@ -1,3 +1,5 @@
+# This project is classified as legacy because its replacement, ResoureCompiler, was developed to work directly with .gltf files, without the need for .matx.
+
 ## Inevitable-MATX-Toolkit
 
 Made specifically for [GeomCompiler](https://github.com/gabengaGamer/area51-pc/releases/tag/GeomCompiler) and [Art2Code](https://github.com/gabengaGamer/area51-pc/releases/tag/Art2Code)
